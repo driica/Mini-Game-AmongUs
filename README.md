@@ -11,4 +11,4 @@ O jogo está disponível para testes no (https://trusting-swirles-e7d846.netlify
 * Animações utilizando CSS 3
 * Manipulação de áudio
 * Controle de fluxo de tempo para jogos
-* Criação junto com o [Código Fonte TV](https://youtu.be/C3WZrP0zlUk), canal do YouTube.
+
