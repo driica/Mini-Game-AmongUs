@@ -1,7 +1,7 @@
 # Mini-Game Among Us usando Vanilla JS
 
 
-O jogo está disponível para testes no (https://trusting-swirles-e7d846.netlify.app)
+O jogo está disponível para testes (https://trusting-swirles-e7d846.netlify.app)
 
 
 
